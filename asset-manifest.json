@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zubairkhan0000/zubair45.git/static/css/main.231885e4.css",
+    "main.js": "/zubairkhan0000/zubair45.git/static/js/main.8d0d5ad0.js",
+    "static/js/592.a4a1a5eb.chunk.js": "/zubairkhan0000/zubair45.git/static/js/592.a4a1a5eb.chunk.js",
+    "index.html": "/zubairkhan0000/zubair45.git/index.html",
+    "main.231885e4.css.map": "/zubairkhan0000/zubair45.git/static/css/main.231885e4.css.map",
+    "main.8d0d5ad0.js.map": "/zubairkhan0000/zubair45.git/static/js/main.8d0d5ad0.js.map",
+    "592.a4a1a5eb.chunk.js.map": "/zubairkhan0000/zubair45.git/static/js/592.a4a1a5eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231885e4.css",
+    "static/js/main.8d0d5ad0.js"
+  ]
+}
